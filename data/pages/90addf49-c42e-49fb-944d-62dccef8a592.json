@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2024-10-02T16:26:21.566Z",
+  "created_by": "JMU-AudiAnnotate",
+  "title": "FF031-3",
+  "updated_at": "2024-10-02T16:26:21.566Z",
+  "updated_by": "JMU-AudiAnnotate",
+  "parent": "06c58773-d383-4541-9eaa-f3fbefa205b3",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "fc15e1bc-5c5a-4c54-bf6b-5c29dc80e91e"
+  }
+}
